@@ -1,5 +1,5 @@
 # Basic Lan Connectivity
-## Objectivty
+## Objectivity
 
 Build a basic local area network using two PCs and a switch, configure IPv4 addressing, and verify connectivity using ICMP ping.
 
